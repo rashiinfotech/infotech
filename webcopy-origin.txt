@@ -1,0 +1,2780 @@
+Uri: http://qbs.com.qa/amd-releases-new-chipset-driver-to-fix-blue/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\amd-releases-new-chipset-driver-to-fix-blue\index-1.htm
+Content Type: text/html
+
+Uri: http://qbs.com.qa/blog/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\blog\index-1.htm
+Content Type: text/html
+
+Uri: http://qbs.com.qa/business-transformation-solutions/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\business-transformation-solutions\index-1.htm
+Content Type: text/html
+
+Uri: http://qbs.com.qa/category/fix-pc-issues/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\category\fix-pc-issues\index.htm
+Content Type: text/html
+
+Uri: http://qbs.com.qa/endpoint-devices/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\endpoint-devices\index-1.htm
+Content Type: text/html
+
+Uri: http://qbs.com.qa/ibm/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\ibm\index-1.htm
+Content Type: text/html
+
+Uri: http://qbs.com.qa/network-solutions/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\network-solutions\index-1.htm
+Content Type: text/html
+
+Uri: http://qbs.com.qa/palo-alto/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\palo-alto\index-1.htm
+Content Type: text/html
+
+Uri: http://qbs.com.qa/professional-services/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\professional-services\index-1.htm
+Content Type: text/html
+
+Uri: http://qbs.com.qa/security-orchestration-automation-response/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\security-orchestration-automation-response\index-1.htm
+Content Type: text/html
+
+Uri: http://qbs.com.qa/storage/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\storage\index-1.htm
+Content Type: text/html
+
+Uri: http://qbs.com.qa/warzone-checking-for-updates-stuck/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\warzone-checking-for-updates-stuck\index-1.htm
+Content Type: text/html
+
+Uri: http://qbs.com.qa/wp-content/plugins/js_composer12/assets/vc/vc_gitem_image.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\vc\vc_gitem_image-1.png
+Content Type: image/png
+
+Uri: http://qbs.com.qa/wp-content/themes/mitech/assets/images/newsletter-popup-image.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\images\newsletter-popup-image-1.png
+Content Type: image/png
+
+Uri: http://qbs.com.qa/wp-content/themes/mitech/assets/libs/perfect-scrollbar/js/perfect-scrollbar.jquery.min.js
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\libs\perfect-scrollbar\js\perfect-scrollbar.jquery.min-1.js
+Content Type: text/javascript
+
+Uri: http://qbs.com.qa/wp-includes/js/jquery/jquery.min.js
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-includes\js\jquery\jquery.min-1.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:300%2Cregular%2C500%2C600%2C700
+File Name: C:\Downloaded Web Sites\qbs.com.qa\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:700%2C500%2C400
+File Name: C:\Downloaded Web Sites\qbs.com.qa\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\qbs.com.qa\s\poppins\v21\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\qbs.com.qa\s\poppins\v21\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\qbs.com.qa\s\poppins\v21\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\qbs.com.qa\s\poppins\v21\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\qbs.com.qa\s\poppins\v21\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\qbs.com.qa\s\roboto\v32\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\qbs.com.qa\s\roboto\v32\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\qbs.com.qa\s\roboto\v32\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/plugins/js_composer12/assets/vc/vc_gitem_image.png?w=640
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\plugins\js_composer12\assets\vc\vc_gitem_image-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/plugins/js_composer12/assets/vc/vc_gitem_image.png?w=640&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\plugins\js_composer12\assets\vc\vc_gitem_image.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2019/02/blog-image.jpg?fit=1024%2C608&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2019\02\blog-image.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2019/03/mitech-box-image-style-06-image-01.png?resize=80%2C80&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2019\03\mitech-box-image-style-06-image-01.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2019/03/mitech-box-image-style-06-image-02.png?resize=80%2C80&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2019\03\mitech-box-image-style-06-image-02.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2019/03/mitech-box-image-style-06-image-03.png?resize=80%2C80&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2019\03\mitech-box-image-style-06-image-03.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/10/Clients-03.png?resize=640%2C196&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\10\Clients-03.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/10/Clients-04.png?resize=640%2C196&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\10\Clients-04.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/10/Clients-05.png?resize=640%2C196&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\10\Clients-05.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/10/QBS-Icons-website-02.png?resize=60%2C60&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\10\QBS-Icons-website-02.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/10/QBS-Icons-website-03.png?resize=60%2C60&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\10\QBS-Icons-website-03.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/10/QBS-Icons-website-04.png?resize=60%2C61&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\10\QBS-Icons-website-04.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/10/QBS-Icons-website-05.png?resize=60%2C60&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\10\QBS-Icons-website-05.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/10/QBS-Icons-website-06.png?resize=60%2C61&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\10\QBS-Icons-website-06.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/1-4.jpg?resize=640%2C427&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/1-5.jpg?resize=416%2C282&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/2-3.jpg?resize=640%2C427&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/2-4.jpg?resize=416%2C282&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/3-3.jpg?resize=640%2C427&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\3-3.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/3-4.jpg?resize=416%2C282&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\3-4.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/4-3.jpg?resize=640%2C427&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\4-3.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/4-4.jpg?resize=416%2C282&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\4-4.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/5-3.jpg?resize=640%2C427&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\5-3.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/5-4.jpg?resize=416%2C282&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\5-4.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/6.jpg?resize=416%2C282&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\6.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/A-2.jpg?fit=637%2C637&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\A-2.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/A-3.jpg?resize=640%2C181&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\A-3.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/AI-Analysis.jpg?resize=330%2C330&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\AI-Analysis.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Analytics-AI-Icons-02.png?resize=100%2C100&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Analytics-AI-Icons-02.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Analytics-AI-Icons-03.png?resize=100%2C100&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Analytics-AI-Icons-03.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Analytics-AI-Icons-04.png?resize=100%2C100&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Analytics-AI-Icons-04.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Aplication-Security.jpg?resize=330%2C330&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Aplication-Security.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/B-2.jpg?fit=637%2C637&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\B-2.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/B-3.jpg?resize=640%2C181&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\B-3.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Backup.jpg?resize=330%2C330&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Backup.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Banking-Solution.jpg?resize=330%2C330&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Banking-Solution.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Banking-Solutions-02.png?resize=80%2C81&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Banking-Solutions-02.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Banking-Solutions-03.png?resize=80%2C80&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Banking-Solutions-03.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Banking-Solutions-04.png?resize=80%2C80&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Banking-Solutions-04.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Banking-Solutions-05.png?resize=80%2C80&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Banking-Solutions-05.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Banking-Solutions-06.png?resize=120%2C92&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Banking-Solutions-06.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Banking-Solutions-07.png?resize=120%2C92&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Banking-Solutions-07.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Banking-Solutions-08.png?resize=120%2C92&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Banking-Solutions-08.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/C-2.jpg?resize=640%2C181&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\C-2.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Cloud-Security-Icons-02.png?resize=80%2C80&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Cloud-Security-Icons-02.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Cloud-Security-Icons-03.png?resize=80%2C80&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Cloud-Security-Icons-03.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Cloud-Security-Icons-04.png?resize=80%2C80&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Cloud-Security-Icons-04.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Cloud-Security-Icons-05.png?resize=80%2C80&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Cloud-Security-Icons-05.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Cloud-Security-Inner-Page-2.jpg?resize=578%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Cloud-Security-Inner-Page-2.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Cloud-Security-Inner-Page-3.jpg?resize=578%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Cloud-Security-Inner-Page-3.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Cloud-Security.jpg?resize=330%2C330&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Cloud-Security.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Consulting-services.jpg?resize=330%2C330&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Consulting-services.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/D-1.jpg?fit=637%2C637&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\D-1.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Data-Security.jpg?resize=330%2C330&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Data-Security.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/hardware-.jpg?resize=640%2C533&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\hardware-.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/HCL-pic-2.jpg?resize=640%2C356&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\HCL-pic-2.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Identity-Access-Management.jpg?resize=330%2C330&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Identity-Access-Management.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Integration-Automation-05.png?resize=64%2C64&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Integration-Automation-05.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Integration-Automation-06.png?resize=64%2C64&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Integration-Automation-06.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Integration-Automation-07.png?resize=64%2C65&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Integration-Automation-07.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Integration-Automation-08.png?resize=64%2C65&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Integration-Automation-08.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Integration-Automation-Pic-2.jpg?resize=640%2C426&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Integration-Automation-Pic-2.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Integration-Automation-Pic-4-1.jpg?resize=640%2C427&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Integration-Automation-Pic-4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Integration-Automation.jpg?resize=330%2C330&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Integration-Automation.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/mark.png?resize=53%2C44&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\mark.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/middle1.png?resize=185%2C104&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\middle1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Next-Generation-Firewall-Inner-1.jpg?fit=378%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Next-Generation-Firewall-Inner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Next-Generation-Firewall-Inner-2.jpg?fit=378%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Next-Generation-Firewall-Inner-2.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Next-Generation-Firewall-Inner-3.jpg?fit=378%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Next-Generation-Firewall-Inner-3.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Next-Generation-Firewall-Inner-5.jpg?resize=578%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Next-Generation-Firewall-Inner-5.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Next-Generation-Firewall.jpg?resize=330%2C330&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Next-Generation-Firewall.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/QBS-Diebol-Nixdorf-ICONS-02-2.png?resize=120%2C120&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\QBS-Diebol-Nixdorf-ICONS-02-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/QBS-Diebol-Nixdorf-ICONS-03-2.png?resize=120%2C120&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\QBS-Diebol-Nixdorf-ICONS-03-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/QBS-Diebol-Nixdorf-ICONS-04-2.png?resize=120%2C120&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\QBS-Diebol-Nixdorf-ICONS-04-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/QBS-Diebol-Nixdorf-ICONS-05-2.png?resize=120%2C120&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\QBS-Diebol-Nixdorf-ICONS-05-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/QBS-Diebol-Nixdorf-ICONS-06-2.png?resize=120%2C120&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\QBS-Diebol-Nixdorf-ICONS-06-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/QBS-Slider2.jpg?resize=640%2C357
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\QBS-Slider2.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/QBSSlider-scaled.jpg?resize=640%2C357
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\QBSSlider-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Security-Intelligence.jpg?resize=330%2C330&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Security-Intelligence.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Security-Operating-Center-.jpg?resize=330%2C330&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Security-Operating-Center-.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Security-Orchestration-Automation-Response-SOAR.jpg?resize=330%2C330&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Security-Orchestration-Automation-Response-SOAR.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Self-Service-Retail.jpg?resize=330%2C330&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Self-Service-Retail.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Servers-Inner-Pics-2.jpg?fit=366%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Servers-Inner-Pics-2.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Servers-Inner-Pics-3.jpg?fit=366%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Servers-Inner-Pics-3.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Servers-Inner-Pics-4.jpg?fit=366%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Servers-Inner-Pics-4.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Servers.jpg?resize=330%2C330&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Servers.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Software-Defined-Storage.jpg?resize=330%2C330&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Software-Defined-Storage.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/SOftware.jpg?resize=640%2C385&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\SOftware.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Storage.jpg?resize=330%2C330&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Storage.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/System-Integration-Services.jpg?resize=330%2C330&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\System-Integration-Services.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Threat-Hunting-.jpg?resize=330%2C330&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Threat-Hunting-.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Threat-Hunting-02.png?resize=100%2C105&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Threat-Hunting-02.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Threat-Hunting-04.png?resize=100%2C105&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Threat-Hunting-04.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Threat-Hunting-Pic-2.jpg?resize=578%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Threat-Hunting-Pic-2.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/tofix.jpg?fit=637%2C637&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\tofix.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/11/Veeam-2.jpg?resize=640%2C356&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\11\Veeam-2.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/A.jpg?resize=640%2C200&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\A.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/Application-Security-pic1.jpg?resize=578%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\Application-Security-pic1.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/Application-Security-pic2.jpg?resize=480%2C298&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\Application-Security-pic2.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/Application-Security-pic3.jpg?resize=480%2C298&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\Application-Security-pic3.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/Application-Security-pic4.jpg?resize=480%2C298&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\Application-Security-pic4.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/Application-Security-pic5.jpg?resize=480%2C298&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\Application-Security-pic5.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/B.jpg?resize=640%2C200&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\B.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/Backup-Pics-2.jpg?resize=578%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\Backup-Pics-2.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/C.jpg?resize=640%2C200&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\C.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/cropped-QBS-1.png?fit=180%2C180&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\cropped-QBS-1-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/cropped-QBS-1.png?fit=192%2C192&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\cropped-QBS-1-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/cropped-QBS-1.png?fit=32%2C32&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\cropped-QBS-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/D.jpg?resize=640%2C200&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\D.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/Data-Security-pic.jpg?resize=480%2C298&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\Data-Security-pic.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/Data-Security-pic1.jpg?resize=480%2C298&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\Data-Security-pic1.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/Data-Security-pic2.jpg?resize=480%2C298&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\Data-Security-pic2.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/Data-Security-pic3.jpg?resize=578%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\Data-Security-pic3.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/E.jpg?resize=640%2C200&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\E.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/End-pOint-BYOD.jpg?resize=366%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\End-pOint-BYOD.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/End-pOint-Centralize.jpg?resize=366%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\End-pOint-Centralize.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/End-pOint-Cloud.jpg?resize=480%2C298&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\End-pOint-Cloud.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/End-pOint-Heavy-Workload.jpg?resize=480%2C298&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\End-pOint-Heavy-Workload.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/End-pOint-Mainstream.jpg?resize=480%2C298&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\End-pOint-Mainstream.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/End-pOint-Mobility.jpg?resize=366%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\End-pOint-Mobility.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/End-pOint-Performance-Solutions.jpg?resize=480%2C298&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\End-pOint-Performance-Solutions.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/End-pOint-Pic1.jpg?resize=578%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\End-pOint-Pic1.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/End-Point-Security-pic1.jpg?resize=578%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\End-Point-Security-pic1.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/End-Point-Security-pic3.jpg?resize=480%2C298&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\End-Point-Security-pic3.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/End-Point-Security-pic4.jpg?resize=480%2C298&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\End-Point-Security-pic4.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/End-Point-Security-pic5.jpg?resize=480%2C298&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\End-Point-Security-pic5.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/End-pOint-Security.jpg?resize=366%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\End-pOint-Security.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/Identity-Access-Managment-pic-1.jpg?resize=366%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\Identity-Access-Managment-pic-1.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/Identity-Access-Managment-pic-2.jpg?resize=366%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\Identity-Access-Managment-pic-2.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/Identity-Access-Managment-pic-3.jpg?resize=366%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\Identity-Access-Managment-pic-3.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/Identity-Access-Managment-pic-4.jpg?resize=578%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\Identity-Access-Managment-pic-4.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/image-03-1.png?resize=80%2C86&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\image-03-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/mitech-processing-service-image-01.png?resize=100%2C104&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\mitech-processing-service-image-01.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/mitech-processing-service-image-02.png?resize=100%2C104&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\mitech-processing-service-image-02.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/mitech-processing-service-image-03.png?resize=100%2C104&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\mitech-processing-service-image-03.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/mitech-processing-service-image-04.png?resize=100%2C104&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\mitech-processing-service-image-04.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/mitech-processing-service-image-05.png?resize=100%2C104&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\mitech-processing-service-image-05.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/QBS-Threat-Hunting-Pic.jpg?resize=578%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\QBS-Threat-Hunting-Pic.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/Security-Intelligence-pic-2.jpg?resize=578%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\Security-Intelligence-pic-2.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/Security-Intelligence-pic-3.jpg?resize=578%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\Security-Intelligence-pic-3.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/Security-Operating-Center-pic1.jpeg?resize=578%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\Security-Operating-Center-pic1.jpeg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/SOAR-pic1.jpg?resize=480%2C298&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\SOAR-pic1.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/SOAR-pic2.jpg?resize=480%2C298&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\SOAR-pic2.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/SOAR-pic3.jpg?resize=480%2C298&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\SOAR-pic3.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/Software-Defined-Storage-Pic-3.jpg?resize=490%2C309&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\Software-Defined-Storage-Pic-3.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/Software-Defined-Storage-Pic-4.jpg?resize=490%2C309&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\Software-Defined-Storage-Pic-4.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/Software-Defined-Storage-Pic2.jpg?resize=490%2C309&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\Software-Defined-Storage-Pic2.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/Storage-Inner-Pic-2.jpg?resize=578%2C365&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\Storage-Inner-Pic-2.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/qbs.com.qa/wp-content/uploads/2020/12/Storage-Inner-Pic-Convinient.jpg?resize=480%2C298&ssl=1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\qbs.com.qa\wp-content\uploads\2020\12\Storage-Inner-Pic-Convinient.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/2019/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\2019\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/2019/02/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\2019\02\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/2020/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\2020\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/2020/01/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\2020\01\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/2020/05/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\2020\05\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/2020/06/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\2020\06\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/2020/07/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\2020\07\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/2020/09/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\2020\09\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/2020/10/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\2020\10\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/2020/11/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\2020\11\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/2020/12/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\2020\12\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/2020/page/2/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\2020\page\2\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/2020/page/3/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\2020\page\3\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/2022/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\2022\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/2022/09/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\2022\09\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/2022/11/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\2022\11\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/about/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\about\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/amd-releases-new-chipset-driver-to-fix-blue/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\amd-releases-new-chipset-driver-to-fix-blue\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/amd-releases-new-chipset-driver-to-fix-blue/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\amd-releases-new-chipset-driver-to-fix-blue\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/analytics-ai/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\analytics-ai\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/application-security/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\application-security\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/aviator-oyna-en-popler-online-bahis-oyunlari/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\aviator-oyna-en-popler-online-bahis-oyunlari\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/aviator-oyna-en-popler-online-bahis-oyunlari/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\aviator-oyna-en-popler-online-bahis-oyunlari\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/aviator-oyna-yksek-kazan-iin-sabir-ve-strateji/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\aviator-oyna-yksek-kazan-iin-sabir-ve-strateji\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/aviator-oyna-yksek-kazan-iin-sabir-ve-strateji/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\aviator-oyna-yksek-kazan-iin-sabir-ve-strateji\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/backup/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\backup\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/bahis-sitelerinin-gvenligi-nelere-dikkat-edilmeli/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\bahis-sitelerinin-gvenligi-nelere-dikkat-edilmeli\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/bahis-sitelerinin-gvenligi-nelere-dikkat-edilmeli/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\bahis-sitelerinin-gvenligi-nelere-dikkat-edilmeli\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/bahis-yaparken-istatistik-ve-veri-analizini-kullanma/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\bahis-yaparken-istatistik-ve-veri-analizini-kullanma\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/bahis-yaparken-istatistik-ve-veri-analizini-kullanma/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\bahis-yaparken-istatistik-ve-veri-analizini-kullanma\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/bahislerde-en-iyi-seimleri-yapmanin-yollari/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\bahislerde-en-iyi-seimleri-yapmanin-yollari\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/bahislerde-en-iyi-seimleri-yapmanin-yollari/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\bahislerde-en-iyi-seimleri-yapmanin-yollari\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/bahislerde-hizli-tepki-vermek-iin-ipulari/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\bahislerde-hizli-tepki-vermek-iin-ipulari\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/bahislerde-hizli-tepki-vermek-iin-ipulari/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\bahislerde-hizli-tepki-vermek-iin-ipulari\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/banking-solutions/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\banking-solutions\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/best-dating-sites-for-over-50/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\best-dating-sites-for-over-50\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/best-dating-sites-for-over-50/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\best-dating-sites-for-over-50\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/blackjack-temel-kurallar-ve-stratejiler/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\blackjack-temel-kurallar-ve-stratejiler\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/blackjack-temel-kurallar-ve-stratejiler/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\blackjack-temel-kurallar-ve-stratejiler\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/blog/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\blog\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/business-transformation-solutions/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\business-transformation-solutions\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/casinolarin-sagladigi-eglence-ve-dller/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\casinolarin-sagladigi-eglence-ve-dller\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/casinolarin-sagladigi-eglence-ve-dller/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\casinolarin-sagladigi-eglence-ve-dller\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/category/dating-tips/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\category\dating-tips\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/category/dating-tips/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\category\dating-tips\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/category/drivers-in-windows-11/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\category\drivers-in-windows-11\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/category/drivers-in-windows-11/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\category\drivers-in-windows-11\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/category/fix-pc-issues/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\category\fix-pc-issues\index-1.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/category/fix-pc-issues/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\category\fix-pc-issues\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/category/uncategorized/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\category\uncategorized\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/category/uncategorized/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\category\uncategorized\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/category/uncategorized/page/2/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\category\uncategorized\page\2\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/category/uncategorized/page/3/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\category\uncategorized\page\3\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/cloud-security/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\cloud-security\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/comments/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/contact/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\contact\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/data-security/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\data-security\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/deneme-bonusu-ile-bedava-bahis-deneyimi/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\deneme-bonusu-ile-bedava-bahis-deneyimi\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/deneme-bonusu-ile-bedava-bahis-deneyimi/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\deneme-bonusu-ile-bedava-bahis-deneyimi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/deneme-bonusu-ile-daha-fazla-bahis-yapmak/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\deneme-bonusu-ile-daha-fazla-bahis-yapmak\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/deneme-bonusu-ile-daha-fazla-bahis-yapmak/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\deneme-bonusu-ile-daha-fazla-bahis-yapmak\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/deneme-bonusu-nasil-evrilir-ve-ekilir/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\deneme-bonusu-nasil-evrilir-ve-ekilir\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/deneme-bonusu-nasil-evrilir-ve-ekilir/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\deneme-bonusu-nasil-evrilir-ve-ekilir\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/deneme-bonusu-nerelerde-geerlidir/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\deneme-bonusu-nerelerde-geerlidir\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/deneme-bonusu-nerelerde-geerlidir/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\deneme-bonusu-nerelerde-geerlidir\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/diebold-nixdorf/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\diebold-nixdorf\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/egt-slot-oyunlari-cretsiz-oyun-deneyimi/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\egt-slot-oyunlari-cretsiz-oyun-deneyimi\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/egt-slot-oyunlari-cretsiz-oyun-deneyimi/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\egt-slot-oyunlari-cretsiz-oyun-deneyimi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/egt-slot-oyunlari-en-popler-oyunlar/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\egt-slot-oyunlari-en-popler-oyunlar\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/egt-slot-oyunlari-en-popler-oyunlar/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\egt-slot-oyunlari-en-popler-oyunlar\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/egt-slot-oyunlari-jackpot-kazanma-firsatlari/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\egt-slot-oyunlari-jackpot-kazanma-firsatlari\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/egt-slot-oyunlari-jackpot-kazanma-firsatlari/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\egt-slot-oyunlari-jackpot-kazanma-firsatlari\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/egt-slot-oyunlarinda-en-yksek-dller/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\egt-slot-oyunlarinda-en-yksek-dller\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/egt-slot-oyunlarinda-en-yksek-dller/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\egt-slot-oyunlarinda-en-yksek-dller\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/en-iyi-slot-siteleri-gvenli-ve-lisansli-siteler/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\en-iyi-slot-siteleri-gvenli-ve-lisansli-siteler\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/en-iyi-slot-siteleri-gvenli-ve-lisansli-siteler/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\en-iyi-slot-siteleri-gvenli-ve-lisansli-siteler\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/en-yksek-deneme-bonusu-veren-casino-siteleri/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\en-yksek-deneme-bonusu-veren-casino-siteleri\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/en-yksek-deneme-bonusu-veren-casino-siteleri/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\en-yksek-deneme-bonusu-veren-casino-siteleri\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/endpoint-devices/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\endpoint-devices\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/endpoint-security/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\endpoint-security\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/gates-of-olympus-oyun-zellikleri-ve-ekilisler/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\gates-of-olympus-oyun-zellikleri-ve-ekilisler\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/gates-of-olympus-oyun-zellikleri-ve-ekilisler/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\gates-of-olympus-oyun-zellikleri-ve-ekilisler\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/gvenilir-canli-casino-sitelerinde-deneme-bonusu-nasil-kullanilir/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\gvenilir-canli-casino-sitelerinde-deneme-bonusu-nasil-kullanilir\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/gvenilir-canli-casino-sitelerinde-deneme-bonusu-nasil-kullanilir/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\gvenilir-canli-casino-sitelerinde-deneme-bonusu-nasil-kullanilir\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/hosgeldin-bonusu-kullanarak-kazanma-yollari/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\hosgeldin-bonusu-kullanarak-kazanma-yollari\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/hosgeldin-bonusu-kullanarak-kazanma-yollari/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\hosgeldin-bonusu-kullanarak-kazanma-yollari\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/ibm/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\ibm\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/identity-access-management/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\identity-access-management\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/infrastructure-solutions/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\infrastructure-solutions\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/integration-automation/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\integration-automation\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/lenovo/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\lenovo\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/msteri-hizmetleri-ve-canli-destek-bonus-veren-bahis-sitelerinde/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\msteri-hizmetleri-ve-canli-destek-bonus-veren-bahis-sitelerinde\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/msteri-hizmetleri-ve-canli-destek-bonus-veren-bahis-sitelerinde/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\msteri-hizmetleri-ve-canli-destek-bonus-veren-bahis-sitelerinde\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/network-solutions/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\network-solutions\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/next-generation-firewall/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\next-generation-firewall\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/other-partners/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\other-partners\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/palo-alto/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\palo-alto\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/problems-that-can-be-solved-with-ai-solutions/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\problems-that-can-be-solved-with-ai-solutions\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/problems-that-can-be-solved-with-ai-solutions/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\problems-that-can-be-solved-with-ai-solutions\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/professional-services/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\professional-services\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/security-intelligence/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\security-intelligence\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/security-operating-center/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\security-operating-center\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/security-orchestration-automation-response/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\security-orchestration-automation-response\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/security-solutions/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\security-solutions\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/self-service-retail/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\self-service-retail\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/servers/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\servers\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/slot-makinelerinde-wild-ve-scatter-sembollerinin-rol/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\slot-makinelerinde-wild-ve-scatter-sembollerinin-rol\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/slot-makinelerinde-wild-ve-scatter-sembollerinin-rol/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\slot-makinelerinde-wild-ve-scatter-sembollerinin-rol\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/slot-oyunlarinda-sik-yapilan-hatalar-ve-zmleri/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\slot-oyunlarinda-sik-yapilan-hatalar-ve-zmleri\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/slot-oyunlarinda-sik-yapilan-hatalar-ve-zmleri/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\slot-oyunlarinda-sik-yapilan-hatalar-ve-zmleri\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/slot-oyunlarinda-yksek-rtp-orani-semenin-nemi/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\slot-oyunlarinda-yksek-rtp-orani-semenin-nemi\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/slot-oyunlarinda-yksek-rtp-orani-semenin-nemi/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\slot-oyunlarinda-yksek-rtp-orani-semenin-nemi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/software-defined-storage/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\software-defined-storage\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/storage/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\storage\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/tag/business/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\tag\business\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/tag/business/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\tag\business\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/tag/it-security/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\tag\it-security\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/tag/it-security/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\tag\it-security\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/tag/it-services/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\tag\it-services\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/tag/it-services/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\tag\it-services\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/threat-hunting/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\threat-hunting\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/warzone-checking-for-updates-stuck/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\warzone-checking-for-updates-stuck\index.htm
+Content Type: text/html
+
+Uri: https://qbs.com.qa/warzone-checking-for-updates-stuck/feed/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\warzone-checking-for-updates-stuck\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://qbs.com.qa/wp-admin/css/forms.min.css
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-admin\css\forms.min.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-admin/css/l10n.min.css
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-admin\css\l10n.min.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-admin/css/login.min.css
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-admin\css\login.min.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-admin/images/loading.gif
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-admin\images\loading.gif
+Content Type: image/gif
+
+Uri: https://qbs.com.qa/wp-admin/images/w-logo-blue.png?ver=20131202
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-admin\images\w-logo-blue.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-admin/images/wordpress-logo.svg?ver=20131107
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-admin\images\wordpress-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://qbs.com.qa/wp-admin/js/password-strength-meter.min.js
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-admin\js\password-strength-meter.min.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-admin/js/user-profile.min.js
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-admin\js\user-profile.min.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/045da125a01e37595d1fbbe63dae1d7c.css?ver=e1d7c
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\045da125a01e37595d1fbbe63dae1d7c.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/072684c2278dab106ab608b864c92cdf.css?ver=92cdf
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\072684c2278dab106ab608b864c92cdf.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/07a100682c4539c3a893c36ae0b1a2f7.css?ver=1a2f7
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\07a100682c4539c3a893c36ae0b1a2f7.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/0f7277ee8b8f02bf4489c40c46e17f4c.css?ver=17f4c
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\0f7277ee8b8f02bf4489c40c46e17f4c.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/107a8755205d36c47da2eb77d8caa3c4.css?ver=aa3c4
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\107a8755205d36c47da2eb77d8caa3c4.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/19118fb97ef74bd2a2f04a3fb08ae840.css?ver=ae840
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\19118fb97ef74bd2a2f04a3fb08ae840.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/1ffc1abf45a33a4891c7392b48fe8b25.css?ver=e8b25
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\1ffc1abf45a33a4891c7392b48fe8b25.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/27a6c6023cfd6823b08e6e5ffd7a8c85.css?ver=a8c85
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\27a6c6023cfd6823b08e6e5ffd7a8c85.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/28601177ddf75feda5c20eefe15335d3.css?ver=335d3
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\28601177ddf75feda5c20eefe15335d3.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/2b0e9dfeaadac28bdcfdd3dab60bb209.css?ver=bb209
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\2b0e9dfeaadac28bdcfdd3dab60bb209.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/3436577ca689eb2e9639f317934d0d8d.css?ver=d0d8d
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\3436577ca689eb2e9639f317934d0d8d.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/43fef532ae309ec07aeec8fdd3c8db48.css?ver=8db48
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\43fef532ae309ec07aeec8fdd3c8db48.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/4e803f0d3ddce355c0088b81208c7b26.css?ver=c7b26
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\4e803f0d3ddce355c0088b81208c7b26.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/4eb0c56556fc5362cabeac09209e670d.css?ver=e670d
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\4eb0c56556fc5362cabeac09209e670d.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/52d5b93973ddc777eb73d7a4b4ac735c.css?ver=c735c
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\52d5b93973ddc777eb73d7a4b4ac735c.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/5a18c7a1d165c716f2108c1d0f7388ba.css?ver=388ba
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\5a18c7a1d165c716f2108c1d0f7388ba.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/65d2838459708cf3b2a1784e527bdeb7.css?ver=bdeb7
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\65d2838459708cf3b2a1784e527bdeb7.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/6ac0ee141f5c38b8b27141f16e76481a.css?ver=6481a
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\6ac0ee141f5c38b8b27141f16e76481a.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/83a0c2d93f5462c848225ec32c5f0abc.css?ver=f0abc
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\83a0c2d93f5462c848225ec32c5f0abc.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/83b0ac10fe4cde274a2009ac5d311e5c.css?ver=11e5c
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\83b0ac10fe4cde274a2009ac5d311e5c.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/83c7a2fd983ec96c9b400f846e613106.css?ver=13106
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\83c7a2fd983ec96c9b400f846e613106.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/970b6cc139c3c31483763f940ab9806b.css?ver=9806b
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\970b6cc139c3c31483763f940ab9806b.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/97bed668a93c3b2aed46b0bf5c824a43.css?ver=24a43
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\97bed668a93c3b2aed46b0bf5c824a43.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/9b489b03502ce4bf1149746f35940335.css?ver=40335
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\9b489b03502ce4bf1149746f35940335.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/a1d751bf53074983fc1cb5a3e572ef38.css?ver=2ef38
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\a1d751bf53074983fc1cb5a3e572ef38.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/a2e165e6f352ef745464bd64a4f1aed5.css?ver=1aed5
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\a2e165e6f352ef745464bd64a4f1aed5.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/a697eb1a38cd6c09fa28464042517d98.css?ver=17d98
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\a697eb1a38cd6c09fa28464042517d98.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/a926914eda0e54c6c9858db2841b1cef.css?ver=b1cef
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\a926914eda0e54c6c9858db2841b1cef.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/ac3a65b977ac36a3a033a893e2f639db.css?ver=639db
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\ac3a65b977ac36a3a033a893e2f639db.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/b6d77a63e6203378f9859c91b3c4ed1c.css?ver=4ed1c
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\b6d77a63e6203378f9859c91b3c4ed1c.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/bb428e44526a13ff6959b54e568dcae0.css?ver=dcae0
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\bb428e44526a13ff6959b54e568dcae0.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/be4a042997d73b6ac622e3922d9be029.css?ver=be029
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\be4a042997d73b6ac622e3922d9be029.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/c06a1811101e246f23de1a8940dd7428.css?ver=d7428
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\c06a1811101e246f23de1a8940dd7428.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/c63681d56c446d691c70845c8cbd3e69.css?ver=d3e69
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\c63681d56c446d691c70845c8cbd3e69.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/c6fb529c11c0973b5f6a440859c0022e.css?ver=0022e
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\c6fb529c11c0973b5f6a440859c0022e.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/cee67f3c9dda72fe67176ebcdb3a22d2.css?ver=a22d2
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\cee67f3c9dda72fe67176ebcdb3a22d2.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/dbb3bb5449259fd573f2d46683bd3e73.css?ver=d3e73
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\dbb3bb5449259fd573f2d46683bd3e73.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/css/fc88996a11fc853454ea871951df95f8.css?ver=f95f8
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\css\fc88996a11fc853454ea871951df95f8.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/09c793c10fbe7d1988d4949af4045b5c.js?ver=45b5c
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\09c793c10fbe7d1988d4949af4045b5c.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/16f138e26296d904945e44393d7bb340.js?ver=bb340
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\16f138e26296d904945e44393d7bb340.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/18b344ec0ab53aed2dea29df285f33e1.js?ver=f33e1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\18b344ec0ab53aed2dea29df285f33e1.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/26b8d797ddc89c81327856f107816a52.js?ver=16a52
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\26b8d797ddc89c81327856f107816a52.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/27e1c0eac31ebe3ce6fc57077bcee17c.js?ver=ee17c
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\27e1c0eac31ebe3ce6fc57077bcee17c.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/2a174df388db91dc4505d749d5455da0.js?ver=55da0
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\2a174df388db91dc4505d749d5455da0.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/2ca767984073610c8cffdf9c60b19eb2.js?ver=19eb2
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\2ca767984073610c8cffdf9c60b19eb2.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/2d34340672cff58c723377dff543608e.js?ver=3608e
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\2d34340672cff58c723377dff543608e.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/332499d60b7bcac6f612564aedb47e33.js?ver=47e33
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\332499d60b7bcac6f612564aedb47e33.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/35698b784368ec1d6e6600d83db15da2.js?ver=15da2
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\35698b784368ec1d6e6600d83db15da2.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/36f6bd15c568642fafbf57a9b57cabf9.js?ver=cabf9
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\36f6bd15c568642fafbf57a9b57cabf9.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/3754855d96ed30d228339c9b444b1a74.js?ver=b1a74
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\3754855d96ed30d228339c9b444b1a74.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/42680cbdfb0747f7b2945f51ad9415bc.js?ver=415bc
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\42680cbdfb0747f7b2945f51ad9415bc.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/430c627b78967c95dd982bce755f0ea5.js?ver=f0ea5
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\430c627b78967c95dd982bce755f0ea5.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/4fec4942ec0f9917289106efeb5be7e0.js?ver=be7e0
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\4fec4942ec0f9917289106efeb5be7e0.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/51ac45688b6f9664822ca8dae810356a.js?ver=0356a
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\51ac45688b6f9664822ca8dae810356a.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/5d89ce47b2ddf6a45e53a1a79ab5e264.js?ver=5e264
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\5d89ce47b2ddf6a45e53a1a79ab5e264.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/60239a23f90852448bb61b6e3ad9786e.js?ver=9786e
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\60239a23f90852448bb61b6e3ad9786e.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/6169f08305ff2dd147aa4903580edaa8.js?ver=edaa8
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\6169f08305ff2dd147aa4903580edaa8.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/6f5baeebaeee788692716a64f4749daa.js?ver=49daa
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\6f5baeebaeee788692716a64f4749daa.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/715170d6af892c9a593fc76a4d047345.js?ver=47345
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\715170d6af892c9a593fc76a4d047345.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/7842357a0479f7a867500c9e343355dc.js?ver=355dc
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\7842357a0479f7a867500c9e343355dc.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/7c7bc5b6991e7dac17c65c501b0f8b10.js?ver=f8b10
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\7c7bc5b6991e7dac17c65c501b0f8b10.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/7cb7105cc37f5904d5272186354a5d3d.js?ver=a5d3d
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\7cb7105cc37f5904d5272186354a5d3d.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/7fed9d2fe958479ed5c0ca20d819ef0e.js?ver=9ef0e
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\7fed9d2fe958479ed5c0ca20d819ef0e.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/83e4bccbed03300f8468a2f5329d2699.js?ver=d2699
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\83e4bccbed03300f8468a2f5329d2699.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/8694d0ada79a25c91387beb880a5117f.js?ver=5117f
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\8694d0ada79a25c91387beb880a5117f.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/89210337b648a084b27dad6429a8e77a.js?ver=8e77a
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\89210337b648a084b27dad6429a8e77a.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/8c258e8e8233aeda59695a8b29552ccd.js?ver=52ccd
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\8c258e8e8233aeda59695a8b29552ccd.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/8dfe3792a0e0f2dbff533e353e224de9.js?ver=24de9
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\8dfe3792a0e0f2dbff533e353e224de9.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/8e71e778e68c66f4440e6b98664f4196.js?ver=f4196
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\8e71e778e68c66f4440e6b98664f4196.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/96dc0bb71ae0cbf99a65e5ccd7d032f2.js?ver=032f2
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\96dc0bb71ae0cbf99a65e5ccd7d032f2.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/98f5c1e2b4668fadac5bc6cdb3fa7045.js?ver=a7045
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\98f5c1e2b4668fadac5bc6cdb3fa7045.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/9a3ab65503faef84add0b17fae11353a.js?ver=1353a
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\9a3ab65503faef84add0b17fae11353a.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/a35c019f9d25c02812442fd24d62f87c.js?ver=2f87c
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\a35c019f9d25c02812442fd24d62f87c.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/a634c0e9c0971f74de4a3374199671b3.js?ver=671b3
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\a634c0e9c0971f74de4a3374199671b3.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/aa19a7d6e910db753fd060e97bfaf39b.js?ver=af39b
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\aa19a7d6e910db753fd060e97bfaf39b.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/b13ad3ed1efc8bc65fccf76ca8692dbb.js?ver=92dbb
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\b13ad3ed1efc8bc65fccf76ca8692dbb.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/b8c9847e34ff8606cc58dd8534f8fa61.js?ver=8fa61
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\b8c9847e34ff8606cc58dd8534f8fa61.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/ba326b5f4bc3801c55586b6ca6c85ac1.js?ver=85ac1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\ba326b5f4bc3801c55586b6ca6c85ac1.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/bde7f327e6a2ffe310c90208bab690f7.js?ver=690f7
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\bde7f327e6a2ffe310c90208bab690f7.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/bf40f5eee7064d5651f40e94f7dc8719.js?ver=c8719
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\bf40f5eee7064d5651f40e94f7dc8719.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/c24180aabde6c4d92fa762a6ca597c84.js?ver=97c84
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\c24180aabde6c4d92fa762a6ca597c84.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/c881458ffc9f7cb21ac505b9f839c88e.js?ver=9c88e
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\c881458ffc9f7cb21ac505b9f839c88e.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/c96857818ed1194b0c34e2c02cf8002a.js?ver=8002a
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\c96857818ed1194b0c34e2c02cf8002a.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/cf2550193582d9278649757809b61c20.js?ver=61c20
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\cf2550193582d9278649757809b61c20.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/cfbfc08edf019e746ecd2e899c963588.js?ver=63588
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\cfbfc08edf019e746ecd2e899c963588.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/d6f72a37d5ff4b31c023b880c66b31a7.js?ver=b31a7
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\d6f72a37d5ff4b31c023b880c66b31a7.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/d8bd77522e9ee0271c4332cd2237daa1.js?ver=7daa1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\d8bd77522e9ee0271c4332cd2237daa1.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/e2f1b67e06b385168bfd1de908f696c3.js?ver=696c3
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\e2f1b67e06b385168bfd1de908f696c3.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/f7b8ede20c6b1d874e50f7430f896a22.js?ver=96a22
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\f7b8ede20c6b1d874e50f7430f896a22.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/f979da66d756d1aa8a29957b0237de55.js?ver=7de55
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\f979da66d756d1aa8a29957b0237de55.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/fd4fcda5cab061e3a096119a07315b0b.js?ver=15b0b
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\fd4fcda5cab061e3a096119a07315b0b.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/litespeed/js/ff3b2a594b8f2404a0113c3df211a813.js?ver=1a813
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\litespeed\js\ff3b2a594b8f2404a0113c3df211a813.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/plugins/creative-mail-by-constant-contact/assets/js/block/submit.js
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\creative-mail-by-constant-contact\assets\js\block\submit.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/fonts/vc_grid/vc_grid_v1.eot?
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\fonts\vc_grid\vc_grid_v1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\fonts\vc_grid\vc_grid_v1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\fonts\vc_grid\vc_grid_v1.svg
+Content Type: image/svg+xml
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\fonts\vc_grid\vc_grid_v1.ttf
+Content Type: font/ttf
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\fonts\vc_grid\vc_grid_v1.woff
+Content Type: font/woff
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.eot?f6ud62
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.svg?f6ud62
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf?f6ud62
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.ttf
+Content Type: font/ttf
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.woff?f6ud62
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.woff
+Content Type: font/woff
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/flickr.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\flickr.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/address-book.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\address-book.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/alarm-clock.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\alarm-clock.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/anchor.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\anchor.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/application-image.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\application-image.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/arrow.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\arrow.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/asterisk.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\asterisk.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/auction-hammer.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\auction-hammer.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/balloon-buzz.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\balloon-buzz.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/balloon-facebook.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\balloon-facebook.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/balloon-twitter.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\balloon-twitter.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/balloon.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\balloon.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/battery-full.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\battery-full.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/binocular.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\binocular.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/blue-document-excel.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\blue-document-excel.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/blue-document-image.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\blue-document-image.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/blue-document-music.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\blue-document-music.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/blue-document-office.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\blue-document-office.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/blue-document-pdf.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\blue-document-pdf.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/blue-document-powerpoint.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\blue-document-powerpoint.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/blue-document-word.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\blue-document-word.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/bookmark.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\bookmark.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/camcorder.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\camcorder.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/camera.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\camera.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/chart-pie.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\chart-pie.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/chart.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\chart.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/clock.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\clock.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/control.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\control.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/fire.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\fire.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/heart.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\heart.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/mail.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\mail.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/plus-shield.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\plus-shield.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/icons/video.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\icons\video.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/spinner.gif
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\spinner.gif
+Content Type: image/gif
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/toggle_close.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\toggle_close.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/images/toggle_open.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\images\toggle_open.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/owl-carousel2-dist/assets/owl.video.play.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\owl-carousel2-dist\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/btnNext.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\dark_rounded\btnNext.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/btnPrevious.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\dark_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/contentPattern.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\dark_rounded\contentPattern.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/loader.gif
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\dark_rounded\loader.gif
+Content Type: image/gif
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/sprite.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\dark_rounded\sprite.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/dark_square/btnNext.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\dark_square\btnNext.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/dark_square/btnPrevious.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\dark_square\btnPrevious.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/dark_square/loader.gif
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\dark_square\loader.gif
+Content Type: image/gif
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/dark_square/sprite.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\dark_square\sprite.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/default/default_thumb.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\default\default_thumb.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/default/loader.gif
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\default\loader.gif
+Content Type: image/gif
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/default/sprite.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\default\sprite.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_next.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\default\sprite_next.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_prev.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\default\sprite_prev.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_x.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\default\sprite_x.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_y.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\default\sprite_y.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/facebook/btnNext.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\facebook\btnNext.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/facebook/btnPrevious.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\facebook\btnPrevious.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternBottom.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\facebook\contentPatternBottom.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternLeft.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\facebook\contentPatternLeft.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternRight.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\facebook\contentPatternRight.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternTop.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\facebook\contentPatternTop.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/facebook/default_thumbnail.gif
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\facebook\default_thumbnail.gif
+Content Type: image/gif
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/facebook/loader.gif
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\facebook\loader.gif
+Content Type: image/gif
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/facebook/sprite.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\facebook\sprite.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/light_rounded/btnNext.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\light_rounded\btnNext.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/light_rounded/btnPrevious.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\light_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/light_rounded/loader.gif
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\light_rounded\loader.gif
+Content Type: image/gif
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/light_rounded/sprite.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\light_rounded\sprite.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/light_square/btnNext.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\light_square\btnNext.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/light_square/btnPrevious.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\light_square\btnPrevious.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/lib/prettyphoto/images/prettyPhoto/light_square/sprite.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\lib\prettyphoto\images\prettyPhoto\light_square\sprite.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/vc/alert.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\vc\alert.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/vc/blur.svg
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\vc\blur.svg
+Content Type: image/svg+xml
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/vc/exclamation.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\vc\exclamation.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/vc/info.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\vc\info.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/vc/remove.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\vc\remove.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/vc/tick.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\vc\tick.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/js_composer12/assets/vc/vc_gitem_image.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\js_composer12\assets\vc\vc_gitem_image.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/revslider/public/assets/assets/coloredbg.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\revslider\public\assets\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/revslider/public/assets/assets/gridtile.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\revslider\public\assets\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\revslider\public\assets\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/plugins/revslider/public/assets/assets/loader.gif
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\revslider\public\assets\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://qbs.com.qa/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\revslider\public\assets\css\closedhand.cur
+Content Type: 
+
+Uri: https://qbs.com.qa/wp-content/plugins/revslider/public/assets/css/openhand.cur
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\revslider\public\assets\css\openhand.cur
+Content Type: 
+
+Uri: https://qbs.com.qa/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qbs.com.qa/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://qbs.com.qa/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.ttf
+Content Type: font/ttf
+
+Uri: https://qbs.com.qa/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.woff
+Content Type: font/woff
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/awesome/webfonts/fa-light-300.eot
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\awesome\webfonts\fa-light-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/awesome/webfonts/fa-light-300.eot?
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\awesome\webfonts\fa-light-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/awesome/webfonts/fa-light-300.svg
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\awesome\webfonts\fa-light-300.svg
+Content Type: image/svg+xml
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/awesome/webfonts/fa-light-300.ttf
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\awesome\webfonts\fa-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/awesome/webfonts/fa-light-300.woff
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\awesome\webfonts\fa-light-300.woff
+Content Type: font/woff
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/awesome/webfonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\awesome\webfonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-Bold.eot
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-Bold.svg
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-Bold.svg
+Content Type: image/svg+xml
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-Bold.ttf
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-Bold.woff
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-Bold.woff
+Content Type: font/woff
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-ExtraBold.eot
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-ExtraBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-ExtraBold.svg
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-ExtraBold.svg
+Content Type: image/svg+xml
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-ExtraBold.ttf
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-ExtraBold.ttf
+Content Type: font/ttf
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-ExtraBold.woff
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-ExtraBold.woff
+Content Type: font/woff
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-Heavy.eot
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-Heavy.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-Heavy.svg
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-Heavy.svg
+Content Type: image/svg+xml
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-Heavy.ttf
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-Heavy.ttf
+Content Type: font/ttf
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-Heavy.woff
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-Heavy.woff
+Content Type: font/woff
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-Italic.eot
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-Italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-Italic.svg
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-Italic.svg
+Content Type: image/svg+xml
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-Italic.ttf
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-Italic.ttf
+Content Type: font/ttf
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-Italic.woff
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-Italic.woff
+Content Type: font/woff
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-Light.eot
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-Light.svg
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-Light.svg
+Content Type: image/svg+xml
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-Light.ttf
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-Light.ttf
+Content Type: font/ttf
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-Light.woff
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-Light.woff
+Content Type: font/woff
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-Medium.eot
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-Medium.svg
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-Medium.svg
+Content Type: image/svg+xml
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-Medium.ttf
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-Medium.woff
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-Medium.woff
+Content Type: font/woff
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-Regular.eot
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-Regular.svg
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-Regular.ttf
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-Regular.woff
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-Regular.woff
+Content Type: font/woff
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-SemiBold.eot
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-SemiBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-SemiBold.svg
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-SemiBold.svg
+Content Type: image/svg+xml
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-SemiBold.ttf
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-SemiBold.ttf
+Content Type: font/ttf
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/fonts/cerebrisans/CerebriSans-SemiBold.woff
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\fonts\cerebrisans\CerebriSans-SemiBold.woff
+Content Type: font/woff
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/images/cursor/light-close.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\images\cursor\light-close.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/images/newsletter-popup-image.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\images\newsletter-popup-image.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/images/post-format/link.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\images\post-format\link.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/images/post-format/metro-quote.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\images\post-format\metro-quote.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/images/post-format/quote.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\images\post-format\quote.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/libs/lightGallery/fonts/lg.eot?
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\libs\lightGallery\fonts\lg-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/libs/lightGallery/fonts/lg.eot?n1z373
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\libs\lightGallery\fonts\lg.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/libs/lightGallery/fonts/lg.svg?n1z373
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\libs\lightGallery\fonts\lg.svg
+Content Type: image/svg+xml
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/libs/lightGallery/fonts/lg.ttf?n1z373
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\libs\lightGallery\fonts\lg.ttf
+Content Type: font/ttf
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/libs/lightGallery/fonts/lg.woff?n1z373
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\libs\lightGallery\fonts\lg.woff
+Content Type: font/woff
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/libs/lightGallery/img/loading.gif
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\libs\lightGallery\img\loading.gif
+Content Type: image/gif
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/libs/lightGallery/img/video-play.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\libs\lightGallery\img\video-play.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/libs/lightGallery/img/vimeo-play.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\libs\lightGallery\img\vimeo-play.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/libs/lightGallery/img/youtube-play.png
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\libs\lightGallery\img\youtube-play.png
+Content Type: image/png
+
+Uri: https://qbs.com.qa/wp-content/themes/mitech/assets/libs/perfect-scrollbar/js/perfect-scrollbar.jquery.min.js
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\themes\mitech\assets\libs\perfect-scrollbar\js\perfect-scrollbar.jquery.min.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-content/uploads/2019/02/blog-image-50x27.jpg
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2019\02\blog-image-50x27.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2019/02/blog-image-50x29.jpg
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2019\02\blog-image-50x29.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/11/Analytics-AI-Pic-1-1.jpg?id=4669
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\11\Analytics-AI-Pic-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/11/Banking-Solutions-pic-1-1.jpg?id=4670
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\11\Banking-Solutions-pic-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/11/Cloud-Security-Inner-Page-1.jpg?id=5196
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\11\Cloud-Security-Inner-Page-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/11/dieboldnixdorf-1-1.jpg?id=4849
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\11\dieboldnixdorf-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/11/Integration-Automation-Pic-1-1.jpg?id=4671
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\11\Integration-Automation-Pic-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/11/Next-Generation-Firewall-1.jpg?id=5298
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\11\Next-Generation-Firewall-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/11/QBS-Business-Transformation-Solutions.jpg?id=3954
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\11\QBS-Business-Transformation-Solutions.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/11/QBS-Infrastructure-Solutions.jpg?id=4024
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\11\QBS-Infrastructure-Solutions.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/11/QBS-Lenovo-header.jpg?id=4689
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\11\QBS-Lenovo-header.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/11/QBS-Network-Solutions.jpg?id=4032
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\11\QBS-Network-Solutions.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/11/QBS-Profesional-Services--scaled.jpg?id=4090
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\11\QBS-Profesional-Services--scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/11/QBS-Security-Solutions.jpg?id=4041
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\11\QBS-Security-Solutions.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/11/Self-Service-Retail-pic-1-1.jpg?id=4672
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\11\Self-Service-Retail-pic-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/11/Servers-Inner-Pics-1-1.jpg?id=5517
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\11\Servers-Inner-Pics-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/11/Threat-Hunting-Pic-1.jpg?id=5389
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\11\Threat-Hunting-Pic-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/12/Application-Security-pic.jpg?id=6102
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\12\Application-Security-pic.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/12/Backup-Pics-1.jpg?id=5839
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\12\Backup-Pics-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/12/Data-Security-elie.jpg?id=6158
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\12\Data-Security-elie.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/12/End-pOint-Pic.jpg?id=5705
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\12\End-pOint-Pic.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/12/End-pOint-Pic2.jpg?id=5707
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\12\End-pOint-Pic2.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/12/End-Point-Security-pic.jpg?id=5969
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\12\End-Point-Security-pic.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/12/Identity-Access-Managment-pic.jpg?id=6189
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\12\Identity-Access-Managment-pic.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/12/QBS-logo-02-1.svg
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\12\QBS-logo-02-1.svg
+Content Type: image/svg+xml
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/12/QBS-logo-03.svg
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\12\QBS-logo-03.svg
+Content Type: image/svg+xml
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/12/Security-Intelligence-pic.jpg?id=6065
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\12\Security-Intelligence-pic.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/12/Security-Operating-Center-pic.jpg?id=6366
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\12\Security-Operating-Center-pic.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/12/SOAR-pic.jpg?id=6133
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\12\SOAR-pic.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/12/Software-Defined-Storage-Pic.jpg?id=5803
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\12\Software-Defined-Storage-Pic.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-content/uploads/2020/12/Storage-Inner-Pic-1.jpg?id=5616
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-content\uploads\2020\12\Storage-Inner-Pic-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qbs.com.qa/wp-includes/css/buttons.min.css
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-includes\css\buttons.min.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-includes/css/dashicons.min.css
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://qbs.com.qa/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qbs.com.qa/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-includes\fonts\dashicons.ttf
+Content Type: font/ttf
+
+Uri: https://qbs.com.qa/wp-includes/js/clipboard.min.js
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-includes\js\clipboard.min.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-includes/js/dist/a11y.min.js
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-includes\js\dist\a11y.min.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-includes/js/dist/dom-ready.min.js
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-includes\js\dist\dom-ready.min.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-includes/js/dist/hooks.min.js
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-includes\js\dist\hooks.min.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-includes/js/dist/i18n.min.js
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-includes\js\dist\i18n.min.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-includes/js/jquery/jquery-migrate.min.js
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-includes/js/jquery/jquery.min.js
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-includes/js/mediaelement/mejs-controls.svg
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-includes\js\mediaelement\mejs-controls.svg
+Content Type: image/svg+xml
+
+Uri: https://qbs.com.qa/wp-includes/js/underscore.min.js
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-includes\js\underscore.min.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-includes/js/wp-util.min.js
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-includes\js\wp-util.min.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-includes/js/zxcvbn-async.min.js
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-includes\js\zxcvbn-async.min.js
+Content Type: text/javascript
+
+Uri: https://qbs.com.qa/wp-json/
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/categories/124
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\categories\124
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/categories/125
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\categories\125
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/categories/126
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\categories\126
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/2339
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\2339
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/3656
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\3656
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/3947
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\3947
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/4002
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\4002
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/4005
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\4005
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/4006
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\4006
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/4096
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\4096
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/4178
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\4178
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/4274
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\4274
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/4340
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\4340
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/4344
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\4344
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/4679
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\4679
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/4723
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\4723
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/4779
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\4779
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/4859
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\4859
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/4909
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\4909
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/5190
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\5190
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/5294
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\5294
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/5385
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\5385
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/5505
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\5505
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/5613
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\5613
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/5692
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\5692
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/5800
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\5800
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/5836
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\5836
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/5964
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\5964
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/6011
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\6011
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/6095
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\6095
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/6098
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\6098
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/6155
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\6155
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/6186
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\6186
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/6315
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\6315
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/6383
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\6383
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/pages/7279
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\pages\7279
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/333
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\333
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7341
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7341
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7343
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7343
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7345
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7345
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7355
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7355
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7360
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7360
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7362
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7362
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7364
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7364
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7367
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7367
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7369
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7369
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7371
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7371
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7373
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7373
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7375
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7375
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7377
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7377
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7379
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7379
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7381
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7381
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7383
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7383
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7385
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7385
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7387
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7387
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7389
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7389
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7391
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7391
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7393
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7393
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7395
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7395
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7397
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7397
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7399
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7399
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7401
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7401
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7403
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7403
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7405
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7405
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/posts/7407
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\posts\7407
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/tags/5
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\tags\5
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/tags/7
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\tags\7
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-json/wp/v2/tags/8
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-json\wp\v2\tags\8
+Content Type: application/json
+
+Uri: https://qbs.com.qa/wp-login.php
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-login.php.html
+Content Type: text/html
+
+Uri: https://qbs.com.qa/wp-login.php?action=lostpassword
+File Name: C:\Downloaded Web Sites\qbs.com.qa\wp-login.php-1.html
+Content Type: text/html
+
+Uri: https://qbs.com.qa/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\qbs.com.qa\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://secure.gravatar.com/avatar/0edcb5a87b8d036c77136831cbcf5cc2?s=192&d=mm&r=g
+File Name: C:\Downloaded Web Sites\qbs.com.qa\avatar\0edcb5a87b8d036c77136831cbcf5cc2-1.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/0edcb5a87b8d036c77136831cbcf5cc2?s=96&d=mm&r=g
+File Name: C:\Downloaded Web Sites\qbs.com.qa\avatar\0edcb5a87b8d036c77136831cbcf5cc2.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/8128fd4cdffbe9314d538ea2c78c875a?s=192&d=mm&r=g
+File Name: C:\Downloaded Web Sites\qbs.com.qa\avatar\8128fd4cdffbe9314d538ea2c78c875a-1.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/8128fd4cdffbe9314d538ea2c78c875a?s=96&d=mm&r=g
+File Name: C:\Downloaded Web Sites\qbs.com.qa\avatar\8128fd4cdffbe9314d538ea2c78c875a.png
+Content Type: image/jpeg
+
+Uri: https://stats.wp.com/e-202448.js
+File Name: C:\Downloaded Web Sites\qbs.com.qa\e-202448.js
+Content Type: application/javascript
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: C:\Downloaded Web Sites\qbs.com.qa\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-221130069-1
+File Name: C:\Downloaded Web Sites\qbs.com.qa\gtag\js
+Content Type: application/javascript
+
